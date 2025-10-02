@@ -3,12 +3,16 @@
 A responsive **SaaS landing page** built with **React, Tailwind CSS, and DaisyUI**.  
 Features a sticky header with scroll-spy, smooth navigation, responsive pricing section, testimonials, and a clean footer with social links.
 
+## 🌐 Live Website
+
+[Visit Live Website](https://landing-page-3m6.pages.dev//)
+
 ## 💻 Desktop, 📱 Mobile & 📱 Tablet Preview
 
 <p align="center">
-  <img src="./public/screenshots/desktop-mockup.png" alt="Desktop" height="300"/>
-  <img src="./public/screenshots/tablet-mockup.png" alt="Tablet" height="300"/>
-  <img src="./public/screenshots/iphone-mockup.png" alt="iPhone" height="300"/>
+  <img src="./public/screenshots/desktop-mockup.png" alt="Desktop" height="250"/>
+  <img src="./public/screenshots/tablet-mockup.png" alt="Tablet" height="250"/>
+  <img src="./public/screenshots/iphone-mockup.png" alt="iPhone" height="250"/>
 </p>
 
 ---
